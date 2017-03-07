@@ -1,0 +1,1 @@
+jQuery(document).ready(function(a){if(a(".ts-list-testimonial").length>0){var b=parseInt(a(".ts-list-testimonial").attr("data-speed"))*1000;if(isNaN(b)){b=4000;}console.log(b);a(".ts-list-testimonial").owlCarousel({autoPlay:b,slideSpeed:1000,navigation:false,pagination:true,singleItem:true});}});

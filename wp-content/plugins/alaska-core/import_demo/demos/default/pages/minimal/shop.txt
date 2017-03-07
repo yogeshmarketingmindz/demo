@@ -1,0 +1,5 @@
+[vc_row css=".vc_custom_1464771097901{padding-top: 100px !important;padding-bottom: 100px !important;}"][vc_column width="5/6" offset="vc_col-lg-offset-1" css=".vc_custom_1464752973914{background-color: #eaeaea !important;}"][vc_column_text]
+
+You need WooCommerce plugin installed and activated to create shop page. You can then customize your WooCommerce pages using Theme Options. To do that go to Appearance > ALASKA Options > WooCommerce.
+
+[/vc_column_text][/vc_column][/vc_row]

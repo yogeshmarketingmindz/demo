@@ -1,0 +1,1 @@
+[vc_row][vc_column][ts_portfolio portfolio_show_categories="advertising,branding,print,product,web-design" portfolio_container="no" posts_per_page="10" portfolio_item_width="393" portfolio_item_height="363" portfolio_portfolio_container="no"][/vc_column][/vc_row]

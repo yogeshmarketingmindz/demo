@@ -1,0 +1,122 @@
+[vc_row container_class="container" css=".vc_custom_1422961126796{padding-top: 100px !important;}" gmbt_prlx_bg_type="parallax" gmbt_prlx_break_parents="0" gmbt_prlx_video_youtube_loop_trigger="0" gmbt_prlx_video_aspect_ratio="16:9" gmbt_prlx_parallax="none" gmbt_prlx_speed="0.3" gmbt_prlx_smooth_scrolling="" gmbt_prlx_video_youtube_mute="" gmbt_prlx_enable_mobile=""][vc_column][themestudio_title title="Pricing table new" css=".vc_custom_1422960858287{margin-bottom: 60px !important;}"]Each type of hosting service we provide is further optimized with unique performance tweaks![/themestudio_title][vc_row_inner][vc_column_inner][ts_pricing_table_new choose_column="4" ts_pricing_content="Linux Web Hosting includes|Number of Websites,1,1,5,limited
+Cloud hosting platform,Y,Y,Y,Y
+Web Space 5000MB,3000MB,Unlimited,Unlimited,Unlimited
+Month ly Bandwidth,5000MB,Unlimited,Unlimited,Unlimited
+24×7 Fast Support,Y,Y,Y,Y
+30 Day Money Back Guarantee ,Y,Y,Y,Y
+Email Features|400MB M ail Boxes,1000,10000,10000,Unlimited
+(POP3 & IMAP),Y,Y,Y,Y
+Webmail,3000,8000,Unlimited,Unlimited
+Autoresponders,5000,8000,Unlimited,Unlimited
+Mailing Lists,Unlimited,Unlimited,Unlimited,Unlimited
+Email Forwarders,Unlimited,Unlimited,Unlimited,Unlimited
+Website Statistics|Error & Access/Referrer/Agent Logs,Y,Y,Y,Y
+Google Sitemaps Generator,Y,Y,Y,Y
+Webalizer Graphical Statistics,Y,Y,Y,Y
+AWStats Graphical Statistics,Y,Y,Y,Y
+Advanced Visitor Counters ,N,N,Y,Y
+Bandwidth Statistics,N,N,Y,Y" img_pricing="iii_girl14_iii" icon_prcing_1="fa-navicon" des_plan_one_1="Authoritatively foster granular potentialities after distinctive interfaces. Distinctively syndicate go forward centric partnership" link_pricing_1="#" icon_prcing_2="fa-bank" des_plan_one_2="Authoritatively foster granular potentialities after distinctive interfaces. Distinctively syndicate go forward centric partnership" link_pricing_2="#" icon_prcing_3="fa-area-chart" des_plan_one_3="Authoritatively foster granular potentialities after distinctive interfaces. Distinctively syndicate go forward centric partnership" link_pricing_3="#" icon_prcing_4="fa-bank" des_plan_one_4="Authoritatively foster granular potentialities after distinctive interfaces. Distinctively syndicate go forward centric partnership" link_pricing_4="#" choose_style_divider="style1" title_pricing_content="Linux Web Hosting includes|Email Features|Website Statistics" pricing_content="Number of Websites,1,1,5" number_tweet="4" title_pricing_1="Starter pro" price_1="$4" pence_pricing_1="99" unit_pricing_1="pm" vatprompt="ex VAT
+(Charged at 20%)" button_pricing_1="BUY NOW" title_pricing_2="Business Pro" price_2="$4" pence_pricing_2="99" unit_pricing_2="pm" vatprompt_2="ex VAT
+(Charged at 20%)" button_pricing_2="BUY NOW" title_pricing_3="Advanded Pro" price_3="$4" pence_pricing_3="99" unit_pricing_3="pm" vatprompt_3="ex VAT
+(Charged at 20%)" button_pricing_3="BUY NOW" title_pricing_4="Advanded Pretium" price_4="$10" pence_pricing_4="99" unit_pricing_4="pm" vatprompt_4="ex VAT
+(Charged at 20%)" button_pricing_4="BUY NOW"][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row container_class="container" css=".vc_custom_1422850011181{padding-top: 100px !important;padding-bottom: 100px !important;}" gmbt_prlx_bg_type="parallax" gmbt_prlx_break_parents="0" gmbt_prlx_video_youtube_loop_trigger="0" gmbt_prlx_video_aspect_ratio="16:9" gmbt_prlx_parallax="none" gmbt_prlx_speed="0.3" gmbt_prlx_smooth_scrolling="" gmbt_prlx_video_youtube_mute="" gmbt_prlx_enable_mobile=""][vc_column][themestudio_title title="Pricing table style 4(new)" css=".vc_custom_1422849169402{margin-bottom: 60px !important;}"]Each type of hosting service we provide is further optimized with unique performance tweaks![/themestudio_title][vc_row_inner][vc_column_inner width="1/3"][ts_pricing_table pricing_table_style="style4" image_service="iii_global_logo_iii" pricing_title="Reseller Hosting"]Make money with your own web hosting business![/ts_pricing_table][/vc_column_inner][vc_column_inner width="1/3"][ts_pricing_table pricing_table_style="style4" image_service="iii_skype_iii" pricing_title="Unlimited Web Hosting‎" pricing_price="$19.99"]Make money with your own web hosting business![/ts_pricing_table][/vc_column_inner][vc_column_inner width="1/3"][ts_pricing_table pricing_table_style="style4" image_service="iii_15_iii" pricing_title="Webhost Reseller‎" pricing_price="$18.99"]Make money with your own web hosting business![/ts_pricing_table][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row container_class="container" css=".vc_custom_1422850138609{padding-top: 100px !important;padding-bottom: 100px !important;background-color: #f3f3f3 !important;}" gmbt_prlx_bg_type="parallax" gmbt_prlx_break_parents="0" gmbt_prlx_video_youtube_loop_trigger="0" gmbt_prlx_video_aspect_ratio="16:9" gmbt_prlx_parallax="none" gmbt_prlx_speed="0.3" gmbt_prlx_smooth_scrolling="" gmbt_prlx_video_youtube_mute="" gmbt_prlx_enable_mobile=""][vc_column][themestudio_title title="Pricing table style 3(new)" css=".vc_custom_1422850874203{margin-bottom: 80px !important;}"]Each type of hosting service we provide is further optimized with unique performance tweaks![/themestudio_title][vc_row_inner][vc_column_inner width="1/4"][ts_pricing_table pricing_table_style="style3" css_awesome="fa-tasks" pricing_subtitle="Build personal or business websites quickly and easily." pricing_title="Starter Pro" pricing_price="$4.99" price_description="ex VAT
+(Charged at 20%)" pricing_text_button="BUY NOW"]
+
+    Up to 50GB Storage
+    Free Domain Name
+    0 - 20 Databases
+    Unlimited Bandwidth
+
+[/ts_pricing_table][/vc_column_inner][vc_column_inner width="1/4"][ts_pricing_table pricing_table_style="style3" css_awesome="fa-shield" pricing_subtitle="Build personal or business websites quickly and easily." pricing_title="Home Pro" pricing_price="$5.99" price_description="ex VAT
+(Charged at 20%)" pricing_text_button="BUY NOW"]
+
+    Up to 50GB Storage
+    Free Domain Name
+    0 - 20 Databases
+    Unlimited Bandwidth
+
+[/ts_pricing_table][/vc_column_inner][vc_column_inner width="1/4"][ts_pricing_table pricing_table_style="style3" css_awesome="fa-bank" pricing_subtitle="Build personal or business websites quickly and easily." class_active="active" pricing_title="Business Pro" pricing_price="$8.99" price_description="ex VAT
+(Charged at 20%)" pricing_text_button="BUY NOW"]
+
+    Up to 50GB Storage
+    Free Domain Name
+    0 - 20 Databases
+    Unlimited Bandwidth
+
+[/ts_pricing_table][/vc_column_inner][vc_column_inner width="1/4"][ts_pricing_table pricing_table_style="style3" css_awesome="fa-area-chart" pricing_subtitle="Build personal or business websites quickly and easily." pricing_title="Advanded Pro" pricing_price="$9.99" price_description="ex VAT
+(Charged at 20%)" pricing_text_button="BUY NOW"]
+
+    Up to 50GB Storage
+    Free Domain Name
+    0 - 20 Databases
+    Unlimited Bandwidth
+
+[/ts_pricing_table][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row container_class="container" css=".vc_custom_1422849923013{padding-top: 100px !important;}" gmbt_prlx_bg_type="parallax" gmbt_prlx_break_parents="0" gmbt_prlx_video_youtube_loop_trigger="0" gmbt_prlx_video_aspect_ratio="16:9" gmbt_prlx_parallax="none" gmbt_prlx_speed="0.3" gmbt_prlx_smooth_scrolling="" gmbt_prlx_video_youtube_mute="" gmbt_prlx_enable_mobile=""][vc_column][themestudio_title title="Pricing table style 1"]Each type of hosting service we provide is further optimized with unique performance tweaks![/themestudio_title][/vc_column][/vc_row][vc_row container_class="container" css=".vc_custom_1422850026877{padding-top: 0px !important;padding-bottom: 0px !important;}" gmbt_prlx_bg_type="parallax" gmbt_prlx_break_parents="0" gmbt_prlx_video_youtube_loop_trigger="0" gmbt_prlx_video_aspect_ratio="16:9" gmbt_prlx_parallax="none" gmbt_prlx_speed="0.3" gmbt_prlx_smooth_scrolling="" gmbt_prlx_video_youtube_mute="" gmbt_prlx_enable_mobile=""][vc_column width="1/2" offset="vc_col-lg-3 vc_col-md-3"][ts_pricing_table pricing_title="Basic Plan" pricing_price="$20"]
+
+    500 GB Disk Space
+    100 Databases List
+    Free Domain Registration
+    1 Hosting Space
+    FREE Ad Coupons
+
+[/ts_pricing_table][/vc_column][vc_column width="1/2" offset="vc_col-lg-3 vc_col-md-3"][ts_pricing_table pricing_title="Premium Plan" pricing_price="$30"]
+
+    500 GB Disk Space
+    100 Databases List
+    Free Domain Registration
+    1 Hosting Space
+    FREE Ad Coupons
+
+[/ts_pricing_table][/vc_column][vc_column width="1/2" offset="vc_col-lg-3 vc_col-md-3"][ts_pricing_table class_active="active" pricing_title="ADVANCE Plan" pricing_price="$50"]
+
+    500 GB Disk Space
+    100 Databases List
+    Free Domain Registration
+    1 Hosting Space
+    FREE Ad Coupons
+
+[/ts_pricing_table][/vc_column][vc_column width="1/2" offset="vc_col-lg-3 vc_col-md-3"][ts_pricing_table pricing_title="Basic Plan" pricing_price="$20"]
+
+    500 GB Disk Space
+    100 Databases List
+    Free Domain Registration
+    1 Hosting Space
+    FREE Ad Coupons
+
+[/ts_pricing_table][/vc_column][/vc_row][vc_row container_class="container" css=".vc_custom_1422849939405{padding-top: 100px !important;}" gmbt_prlx_bg_type="parallax" gmbt_prlx_break_parents="0" gmbt_prlx_video_youtube_loop_trigger="0" gmbt_prlx_video_aspect_ratio="16:9" gmbt_prlx_parallax="none" gmbt_prlx_speed="0.3" gmbt_prlx_smooth_scrolling="" gmbt_prlx_video_youtube_mute="" gmbt_prlx_enable_mobile=""][vc_column][themestudio_title title="Pricing table style 2"]Each type of hosting service we provide is further optimized with unique performance tweaks![/themestudio_title][/vc_column][/vc_row][vc_row container_class="container" css=".vc_custom_1422849950372{padding-top: 0px !important;padding-bottom: 100px !important;}" gmbt_prlx_bg_type="parallax" gmbt_prlx_break_parents="0" gmbt_prlx_video_youtube_loop_trigger="0" gmbt_prlx_video_aspect_ratio="16:9" gmbt_prlx_parallax="none" gmbt_prlx_speed="0.3" gmbt_prlx_smooth_scrolling="" gmbt_prlx_video_youtube_mute="" gmbt_prlx_enable_mobile=""][vc_column width="1/2" offset="vc_col-lg-3 vc_col-md-3"][ts_pricing_table pricing_table_style="style2" pricing_price="$2.99"]
+
+    500 GB Disk Space
+    100 Databases List
+    Free Domain Registration
+    1 Hosting Space
+    FREE Ad Coupons
+
+[/ts_pricing_table][/vc_column][vc_column width="1/2" offset="vc_col-lg-offset-0 vc_col-lg-3 vc_col-md-offset-0 vc_col-md-3"][ts_pricing_table pricing_table_style="style2" pricing_title="Standard"]
+
+    500 GB Disk Space
+    100 Databases List
+    Free Domain Registration
+    1 Hosting Space
+    FREE Ad Coupons
+
+[/ts_pricing_table][/vc_column][vc_column width="1/2" offset="vc_col-lg-3 vc_col-md-3"][ts_pricing_table pricing_table_style="style2" class_active="active" pricing_title="Professional" pricing_price="$5.99"]
+
+    500 GB Disk Space
+    100 Databases List
+    Free Domain Registration
+    1 Hosting Space
+    FREE Ad Coupons
+
+[/ts_pricing_table][/vc_column][vc_column width="1/2" offset="vc_col-lg-3 vc_col-md-3"][ts_pricing_table pricing_table_style="style2" pricing_title="Unlimited" pricing_price="$7.99"]
+
+    500 GB Disk Space
+    100 Databases List
+    Free Domain Registration
+    1 Hosting Space
+    FREE Ad Coupons
+
+[/ts_pricing_table][/vc_column][/vc_row][vc_row container_class="container" gmbt_prlx_bg_type="parallax" gmbt_prlx_break_parents="0" gmbt_prlx_video_youtube_loop_trigger="0" gmbt_prlx_video_aspect_ratio="16:9" gmbt_prlx_parallax="none" gmbt_prlx_speed="0.3" css=".vc_custom_1422849960141{margin-bottom: 100px !important;}" gmbt_prlx_smooth_scrolling="" gmbt_prlx_video_youtube_mute="" gmbt_prlx_enable_mobile=""][vc_column][themestudio_title title="Compare table"]Energistically formulate resource-leveling imperatives[/themestudio_title][ts_pricing_hosting]Xeon E3-1240 v34|Cores x 3.4 GHz|8GBDDR3|1TB|100TB|$99|00|mo|GET STARTED|#
+
+Xeon E3-1240 v34|Cores x 3.4 GHz|8GBDDR3|1TB|100TB|$99|00|mo|GET STARTED|#
+
+Xeon E3-1240 v34|Cores x 3.4 GHz|8GBDDR3|1TB|100TB|$99|00|mo|GET STARTED|http://alaska.themestudio.net/demo2[/ts_pricing_hosting][/vc_column][/vc_row]

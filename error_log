@@ -1,0 +1,49 @@
+[16-Dec-2016 06:03:53 UTC] PHP Fatal error:  Uncaught exception 'ZohoException' with message 'Unable to populate data, please check if mandatory value is entered correctly.' in /home/devmindz/public_html/wpthemes/fastpbx/wp-content/plugins/cf7-zoho-leads/libs/zoho-crm-api.php:194
+Stack trace:
+#0 /home/devmindz/public_html/wpthemes/fastpbx/wp-content/plugins/cf7-zoho-leads/libs/zoho-crm-api.php(131): Zoho->check_successful_xml('<?xml version="...')
+#1 /home/devmindz/public_html/wpthemes/fastpbx/wp-content/plugins/cf7-zoho-leads/cf7-zoho-leads.php(73): Zoho->insert_record('Leads', Array)
+#2 [internal function]: cf7zl_cf7_email_hook(Object(WPCF7_ContactForm))
+#3 /home/devmindz/public_html/wpthemes/fastpbx/wp-includes/class-wp-hook.php(298): call_user_func_array('cf7zl_cf7_email...', Array)
+#4 /home/devmindz/public_html/wpthemes/fastpbx/wp-includes/class-wp-hook.php(323): WP_Hook->apply_filters('', Array)
+#5 /home/devmindz/public_html/wpthemes/fastpbx/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /home/devmindz/public_html/wpthemes/fastpbx/wp-co in /home/devmindz/public_html/wpthemes/fastpbx/wp-content/plugins/cf7-zoho-leads/libs/zoho-crm-api.php on line 194
+[16-Dec-2016 06:11:08 UTC] PHP Fatal error:  Uncaught exception 'ZohoException' with message 'Unable to populate data, please check if mandatory value is entered correctly.' in /home/devmindz/public_html/wpthemes/fastpbx/wp-content/plugins/cf7-zoho-leads/libs/zoho-crm-api.php:194
+Stack trace:
+#0 /home/devmindz/public_html/wpthemes/fastpbx/wp-content/plugins/cf7-zoho-leads/libs/zoho-crm-api.php(131): Zoho->check_successful_xml('<?xml version="...')
+#1 /home/devmindz/public_html/wpthemes/fastpbx/wp-content/plugins/cf7-zoho-leads/cf7-zoho-leads.php(73): Zoho->insert_record('Leads', Array)
+#2 [internal function]: cf7zl_cf7_email_hook(Object(WPCF7_ContactForm))
+#3 /home/devmindz/public_html/wpthemes/fastpbx/wp-includes/class-wp-hook.php(298): call_user_func_array('cf7zl_cf7_email...', Array)
+#4 /home/devmindz/public_html/wpthemes/fastpbx/wp-includes/class-wp-hook.php(323): WP_Hook->apply_filters('', Array)
+#5 /home/devmindz/public_html/wpthemes/fastpbx/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /home/devmindz/public_html/wpthemes/fastpbx/wp-co in /home/devmindz/public_html/wpthemes/fastpbx/wp-content/plugins/cf7-zoho-leads/libs/zoho-crm-api.php on line 194
+[16-Dec-2016 06:12:55 UTC] PHP Fatal error:  Uncaught exception 'ZohoException' with message 'Unable to populate data, please check if mandatory value is entered correctly.' in /home/devmindz/public_html/wpthemes/fastpbx/wp-content/plugins/cf7-zoho-leads/libs/zoho-crm-api.php:194
+Stack trace:
+#0 /home/devmindz/public_html/wpthemes/fastpbx/wp-content/plugins/cf7-zoho-leads/libs/zoho-crm-api.php(131): Zoho->check_successful_xml('<?xml version="...')
+#1 /home/devmindz/public_html/wpthemes/fastpbx/wp-content/plugins/cf7-zoho-leads/cf7-zoho-leads.php(73): Zoho->insert_record('Leads', Array)
+#2 [internal function]: cf7zl_cf7_email_hook(Object(WPCF7_ContactForm))
+#3 /home/devmindz/public_html/wpthemes/fastpbx/wp-includes/class-wp-hook.php(298): call_user_func_array('cf7zl_cf7_email...', Array)
+#4 /home/devmindz/public_html/wpthemes/fastpbx/wp-includes/class-wp-hook.php(323): WP_Hook->apply_filters('', Array)
+#5 /home/devmindz/public_html/wpthemes/fastpbx/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /home/devmindz/public_html/wpthemes/fastpbx/wp-co in /home/devmindz/public_html/wpthemes/fastpbx/wp-content/plugins/cf7-zoho-leads/libs/zoho-crm-api.php on line 194
+[19-Dec-2016 13:45:48 UTC] PHP Warning:  include(../../../wp-config.php): failed to open stream: No such file or directory in /home/devmindz/public_html/wpthemes/fastpbx/wp-content/themes/alaska-child/templates/zoho-template.php on line 9
+[19-Dec-2016 13:45:48 UTC] PHP Warning:  include(../../../wp-config.php): failed to open stream: No such file or directory in /home/devmindz/public_html/wpthemes/fastpbx/wp-content/themes/alaska-child/templates/zoho-template.php on line 9
+[19-Dec-2016 13:45:48 UTC] PHP Warning:  include(): Failed opening '../../../wp-config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/devmindz/public_html/wpthemes/fastpbx/wp-content/themes/alaska-child/templates/zoho-template.php on line 9
+[19-Dec-2016 13:45:52 UTC] PHP Warning:  include(../../../wp-config.php): failed to open stream: No such file or directory in /home/devmindz/public_html/wpthemes/fastpbx/wp-content/themes/alaska-child/templates/zoho-template.php on line 9
+[19-Dec-2016 13:45:52 UTC] PHP Warning:  include(../../../wp-config.php): failed to open stream: No such file or directory in /home/devmindz/public_html/wpthemes/fastpbx/wp-content/themes/alaska-child/templates/zoho-template.php on line 9
+[19-Dec-2016 13:45:52 UTC] PHP Warning:  include(): Failed opening '../../../wp-config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/devmindz/public_html/wpthemes/fastpbx/wp-content/themes/alaska-child/templates/zoho-template.php on line 9
+[19-Dec-2016 13:45:52 UTC] PHP Warning:  include(../../../wp-config.php): failed to open stream: No such file or directory in /home/devmindz/public_html/wpthemes/fastpbx/wp-content/themes/alaska-child/templates/zoho-template.php on line 9
+[19-Dec-2016 13:45:52 UTC] PHP Warning:  include(../../../wp-config.php): failed to open stream: No such file or directory in /home/devmindz/public_html/wpthemes/fastpbx/wp-content/themes/alaska-child/templates/zoho-template.php on line 9
+[19-Dec-2016 13:45:52 UTC] PHP Warning:  include(): Failed opening '../../../wp-config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/devmindz/public_html/wpthemes/fastpbx/wp-content/themes/alaska-child/templates/zoho-template.php on line 9
+[09-Jan-2017 12:07:06 UTC] PHP Warning:  Error while sending QUERY packet. PID=1467 in /home/devmindz/public_html/wpthemes/fastpbx/wp-includes/wp-db.php on line 1877
+[18-Jan-2017 07:25:18 UTC] PHP Warning:  Error while sending QUERY packet. PID=102047 in /home/devmindz/public_html/wpthemes/fastpbx/wp-includes/wp-db.php on line 1877
+[18-Jan-2017 07:25:20 UTC] PHP Warning:  Error while sending QUERY packet. PID=102140 in /home/devmindz/public_html/wpthemes/fastpbx/wp-includes/wp-db.php on line 1877
+[18-Jan-2017 07:25:21 UTC] PHP Warning:  Error while sending QUERY packet. PID=101998 in /home/devmindz/public_html/wpthemes/fastpbx/wp-includes/wp-db.php on line 1877
+[18-Jan-2017 07:25:26 UTC] PHP Warning:  Error while sending QUERY packet. PID=102054 in /home/devmindz/public_html/wpthemes/fastpbx/wp-includes/wp-db.php on line 1877
+[18-Jan-2017 07:25:29 UTC] PHP Warning:  Error while sending QUERY packet. PID=99144 in /home/devmindz/public_html/wpthemes/fastpbx/wp-includes/wp-db.php on line 1877
+[18-Jan-2017 07:58:19 UTC] PHP Warning:  Error while sending QUERY packet. PID=19529 in /home/devmindz/public_html/wpthemes/fastpbx/wp-includes/wp-db.php on line 1877
+[18-Jan-2017 07:58:20 UTC] PHP Warning:  Error while sending QUERY packet. PID=19431 in /home/devmindz/public_html/wpthemes/fastpbx/wp-includes/wp-db.php on line 1877
+[18-Jan-2017 07:58:21 UTC] PHP Warning:  Error while sending QUERY packet. PID=18242 in /home/devmindz/public_html/wpthemes/fastpbx/wp-includes/wp-db.php on line 1877
+[18-Jan-2017 11:54:12 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/devmindz/public_html/wpthemes/fastpbx/wp-content/themes/alaska-child/Zoho_form.php on line 32
+[27-Jan-2017 10:51:30 UTC] PHP Warning:  Error while sending QUERY packet. PID=73158 in /home/devmindz/public_html/wpthemes/fastpbx/wp-includes/wp-db.php on line 1877
+[27-Jan-2017 10:51:52 UTC] PHP Warning:  Error while sending QUERY packet. PID=73225 in /home/devmindz/public_html/wpthemes/fastpbx/wp-includes/wp-db.php on line 1877
+[31-Jan-2017 11:38:27 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/devmindz/public_html/wpthemes/fastpbx/wp-content/plugins/wordfence/lib/wfUtils.php on line 1377

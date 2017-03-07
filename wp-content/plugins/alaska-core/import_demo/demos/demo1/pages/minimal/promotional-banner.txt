@@ -1,0 +1,17 @@
+[vc_row container_class="container" gmbt_prlx_bg_type="parallax" gmbt_prlx_break_parents="0" gmbt_prlx_smooth_scrolling="" gmbt_prlx_video_youtube_mute="" gmbt_prlx_video_youtube_loop_trigger="0" gmbt_prlx_video_aspect_ratio="16:9" gmbt_prlx_parallax="none" gmbt_prlx_speed="0.3" gmbt_prlx_enable_mobile="" css=".vc_custom_1422849753461{padding-top: 90px !important;padding-bottom: 75px !important;}"][vc_column][themestudio_title title="Choose from multiple options to present promotion"]Monotonectally reinvent economically sound e-markets[/themestudio_title][vc_row_inner css=".vc_custom_1422849774850{margin-top: 80px !important;}"][vc_column_inner width="1/2"][ts_special_offer choose_style_special="style2" background_special="iii_special_11_iii" title_special="Reseller Hosting" unit_special="mo" more_special_text="GET STARTED"]Our reseller hosting packages offer industry leading products, an all-in-one control panel, exclusive reseller discounts and an independently certified training programme. Hosted in our two secure UK data centres with 24/7 UK phone, online and email support.[/ts_special_offer][/vc_column_inner][vc_column_inner width="1/2"][ts_special_offer choose_style_special="style2" background_special="iii_special_2_iii" title_special="Servers 20% off" unit_special="mo" more_special_text="GET STARTED"]Our reseller hosting packages offer industry leading products, an all-in-one control panel, exclusive reseller discounts and an independently certified training programme. Hosted in our two secure UK data centres with 24/7 UK phone, online and email support.[/ts_special_offer][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row container_class="container" css=".vc_custom_1422850711189{padding-top: 88px !important;padding-bottom: 78px !important;background-color: #f3f3f3 !important;}" gmbt_prlx_bg_type="parallax" gmbt_prlx_break_parents="0" gmbt_prlx_smooth_scrolling="" gmbt_prlx_video_youtube_mute="" gmbt_prlx_video_youtube_loop_trigger="0" gmbt_prlx_video_aspect_ratio="16:9" gmbt_prlx_parallax="none" gmbt_prlx_speed="0.3" gmbt_prlx_enable_mobile=""][vc_column][themestudio_title title="Special introductory offers"][/themestudio_title][vc_row_inner css=".vc_custom_1422851108902{margin-top: 18px !important;}"][vc_column_inner width="1/2"][ts_special_offer background_special="iii_s_1_iii"]
+<ul>
+ 	<li>Free Website Builde</li>
+ 	<li>Free Domain Registration</li>
+ 	<li>Free Instant Setup!</li>
+ 	<li>Money Back Guarantee</li>
+ 	<li>24/7 Quality Suppor</li>
+</ul>
+[/ts_special_offer][/vc_column_inner][vc_column_inner width="1/2"][ts_special_offer background_special="iii_imgs14_iii" price_special="30%" unit_special="discount"]
+<ul>
+ 	<li>Free Website Builde</li>
+ 	<li>Free Domain Registration</li>
+ 	<li>Free Instant Setup!</li>
+ 	<li>Money Back Guarantee</li>
+ 	<li>24/7 Quality Suppor</li>
+</ul>
+[/ts_special_offer][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row]

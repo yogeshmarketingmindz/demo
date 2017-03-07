@@ -1,0 +1,83 @@
+[vc_row gmbt_prlx_bg_type="parallax" gmbt_prlx_break_parents="0" gmbt_prlx_video_youtube_loop_trigger="0" gmbt_prlx_video_aspect_ratio="16:9" gmbt_prlx_parallax="none" gmbt_prlx_speed="0.3" container_class="container" css=".vc_custom_1420632473152{padding-top: 70px !important;padding-bottom: 50px !important;}"][vc_column width="1/1"][themestudio_title title="Heading" align_title="text-center" title_color="#252525" des_color="#737373"][/themestudio_title][/vc_column][/vc_row][vc_row gmbt_prlx_bg_type="parallax" gmbt_prlx_break_parents="0" gmbt_prlx_video_youtube_loop_trigger="0" gmbt_prlx_video_aspect_ratio="16:9" gmbt_prlx_parallax="none" gmbt_prlx_speed="0.3" container_class="container"][vc_column width="1/1"][vc_column_text]
+<h1>Heading 1</h1>
+Credibly promote cross-platform internal or "organic" sources whereas real-time functionalities. Appropriately communicate leading-edge e-commerce and standardized best practices. Phosfluorescently empower error-free web services for fully researched internal or "organic" sources. Holisticly create viral e-services and client-centered scenarios. Authoritatively transform orthogonal web-readiness before robust methodologies.
+.[/vc_column_text][vc_column_text]
+<h2>Heading 2</h2>
+Credibly promote cross-platform internal or "organic" sources whereas real-time functionalities. Appropriately communicate leading-edge e-commerce and standardized best practices. Phosfluorescently empower error-free web services for fully researched internal or "organic" sources. Holisticly create viral e-services and client-centered scenarios. Authoritatively transform orthogonal web-readiness before robust methodologies.
+.[/vc_column_text][vc_column_text]
+<h3>Heading 3</h3>
+Credibly promote cross-platform internal or "organic" sources whereas real-time functionalities. Appropriately communicate leading-edge e-commerce and standardized best practices. Phosfluorescently empower error-free web services for fully researched internal or "organic" sources. Holisticly create viral e-services and client-centered scenarios. Authoritatively transform orthogonal web-readiness before robust methodologies.
+.[/vc_column_text][vc_column_text]
+<h4>Heading 4</h4>
+Credibly promote cross-platform internal or "organic" sources whereas real-time functionalities. Appropriately communicate leading-edge e-commerce and standardized best practices. Phosfluorescently empower error-free web services for fully researched internal or "organic" sources. Holisticly create viral e-services and client-centered scenarios. Authoritatively transform orthogonal web-readiness before robust methodologies.
+.[/vc_column_text][vc_column_text]
+<h5>Heading 5</h5>
+Credibly promote cross-platform internal or "organic" sources whereas real-time functionalities. Appropriately communicate leading-edge e-commerce and standardized best practices. Phosfluorescently empower error-free web services for fully researched internal or "organic" sources. Holisticly create viral e-services and client-centered scenarios. Authoritatively transform orthogonal web-readiness before robust methodologies.
+.[/vc_column_text][vc_column_text]
+<h6>Heading 6</h6>
+Credibly promote cross-platform internal or "organic" sources whereas real-time functionalities. Appropriately communicate leading-edge e-commerce and standardized best practices. Phosfluorescently empower error-free web services for fully researched internal or "organic" sources. Holisticly create viral e-services and client-centered scenarios. Authoritatively transform orthogonal web-readiness before robust methodologies.
+.[/vc_column_text][/vc_column][/vc_row][vc_row gmbt_prlx_bg_type="parallax" gmbt_prlx_break_parents="0" gmbt_prlx_video_youtube_loop_trigger="0" gmbt_prlx_video_aspect_ratio="16:9" gmbt_prlx_parallax="none" gmbt_prlx_speed="0.3" container_class="container" css=".vc_custom_1420632577816{border-bottom-width: 70px !important;padding-top: 70px !important;}"][vc_column width="1/1"][vc_separator color="custom" accent_color="#ededed"][/vc_column][/vc_row][vc_row gmbt_prlx_bg_type="parallax" gmbt_prlx_break_parents="0" gmbt_prlx_video_youtube_loop_trigger="0" gmbt_prlx_video_aspect_ratio="16:9" gmbt_prlx_parallax="none" gmbt_prlx_speed="0.3" container_class="container" css=".vc_custom_1420632902888{padding-top: 70px !important;padding-bottom: 50px !important;}"][vc_column width="1/1"][vc_column_text css=".vc_custom_1420874829969{margin-bottom: 40px !important;}"]
+<h4 style="text-align: center;">Blockquotes</h4>
+[/vc_column_text][vc_row_inner][vc_column_inner width="1/2"][vc_column_text]Credibly promote cross-platform internal or "organic" sources whereas real-time functionalities. Appropriately communicate leading-edge e-commerce and standardized best practices. Phosfluorescently empower error-free web services for fully researched internal or "organic" sources. scenarios.[/vc_column_text][ts_blockquote name_author="Robert Smith" choose_style_quote="style1"]Synergistically supply global testing procedures through ethical scenarios develop empowered sticky leadership.[/ts_blockquote][vc_column_text]Credibly promote cross-platform internal or "organic" sources whereas real-time functionalities. Appropriately communicate leading-edge e-commerce and standardized best practices. Phosfluorescently empower error-free web services for fully researched internal or "organic" sources.[/vc_column_text][/vc_column_inner][vc_column_inner width="1/2"][vc_column_text]Credibly promote cross-platform internal or "organic" sources whereas real-time functionalities. Appropriately communicate leading-edge e-commerce and standardized best practices. Phosfluorescently empower error-free web services for fully researched internal or "organic" sources. scenarios.[/vc_column_text][ts_blockquote name_author="Robert Smith" choose_style_quote="style2"]Synergistically supply global testing procedures through ethical scenarios develop empowered sticky leadership.[/ts_blockquote][vc_column_text]Credibly promote cross-platform internal or "organic" sources whereas real-time functionalities. Appropriately communicate leading-edge e-commerce and standardized best practices. Phosfluorescently empower error-free web services for fully researched internal or "organic" sources.[/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row gmbt_prlx_bg_type="parallax" gmbt_prlx_break_parents="0" gmbt_prlx_video_youtube_loop_trigger="0" gmbt_prlx_video_aspect_ratio="16:9" gmbt_prlx_parallax="none" gmbt_prlx_speed="0.3" container_class="container" css=".vc_custom_1420632577816{border-bottom-width: 70px !important;padding-top: 70px !important;}"][vc_column width="1/1"][vc_separator color="custom" accent_color="#ededed"][/vc_column][/vc_row][vc_row gmbt_prlx_bg_type="parallax" gmbt_prlx_break_parents="0" gmbt_prlx_video_youtube_loop_trigger="0" gmbt_prlx_video_aspect_ratio="16:9" gmbt_prlx_parallax="none" gmbt_prlx_speed="0.3" container_class="container" css=".vc_custom_1420632902888{padding-top: 70px !important;padding-bottom: 50px !important;}"][vc_column width="1/1"][vc_column_text css=".vc_custom_1420875548350{margin-bottom: 40px !important;}"]
+<h4 style="text-align: center;">Dropcaps</h4>
+[/vc_column_text][/vc_column][/vc_row][vc_row gmbt_prlx_bg_type="parallax" gmbt_prlx_break_parents="0" gmbt_prlx_video_youtube_loop_trigger="0" gmbt_prlx_video_aspect_ratio="16:9" gmbt_prlx_parallax="none" gmbt_prlx_speed="0.3" container_class="container"][vc_column width="1/2"][ts_text_dropcap choose_style_dropcap="style1" first_text="D" color_fisttext="#ffffff" background_color_fisttext="#42454a"]ynergistically supply global testing procedures through ethical scenarios. Assertively develop empowered customer service and sticky leadership.Synergistically supply global testing procedures through ethical
+Synergistically supply global testing procedures through ethical scenarios. Assertively develop empowered customer service and sticky leadership. Enthusiastically parallel task principle-centered portals via multimedia based scenarios. Synergistically negotiate dynamic total linkage after sticky information.[/ts_text_dropcap][/vc_column][vc_column width="1/2"][ts_text_dropcap choose_style_dropcap="style2" first_text="M" background_color_fisttext="#42454a" color_fisttext="#252525"]ynergistically supply global testing procedures through ethical scenarios. Assertively develop empowered customer service and sticky leadership.Synergistically supply global testing procedures through ethical
+Synergistically supply global testing procedures through ethical scenarios. Assertively develop empowered customer service and sticky leadership. Enthusiastically parallel task principle-centered portals via multimedia based scenarios. Synergistically negotiate dynamic total linkage after sticky information.[/ts_text_dropcap][/vc_column][/vc_row][vc_row gmbt_prlx_bg_type="parallax" gmbt_prlx_break_parents="0" gmbt_prlx_video_youtube_loop_trigger="0" gmbt_prlx_video_aspect_ratio="16:9" gmbt_prlx_parallax="none" gmbt_prlx_speed="0.3" container_class="container" css=".vc_custom_1420632577816{border-bottom-width: 70px !important;padding-top: 70px !important;}"][vc_column width="1/1"][vc_separator color="custom" accent_color="#ededed"][/vc_column][/vc_row][vc_row gmbt_prlx_bg_type="parallax" gmbt_prlx_break_parents="0" gmbt_prlx_video_youtube_loop_trigger="0" gmbt_prlx_video_aspect_ratio="16:9" gmbt_prlx_parallax="none" gmbt_prlx_speed="0.3" container_class="container" css=".vc_custom_1420632902888{padding-top: 70px !important;padding-bottom: 50px !important;}"][vc_column width="1/2"][vc_column_text css=".vc_custom_1420876871004{margin-bottom: 40px !important;}"]
+<h4>Highlights</h4>
+[/vc_column_text][vc_column_text]Credibly promote cross-platform internal or "organic" sources whereas real-time functionalities. <span style="background: #42454a; color: #ffffff;">Appropriately communicate leading-edge</span> e-commerce and standardized best practices. Phosfluorescently empower error-free web services for fully researched <span style="background: #54b4f2; ;color: #ffffff;">intertnal or "organic" sources. </span>[/vc_column_text][/vc_column][vc_column width="1/2"][vc_column_text css=".vc_custom_1420876893054{margin-bottom: 40px !important;}"]
+<h4>Tooltips</h4>
+[/vc_column_text][vc_column_text]Credibly promote [tooltip content="Tooltips message go here" url="" ]cross-platform internal[/tooltip]or "organic" sources whereas real-time functionalities. Appropriately communicate leading-edge e-commerce and standardized best practices. Phosfluorescently empower error-free web services for fully researched intertnal or "organic" sources.[/vc_column_text][/vc_column][/vc_row][vc_row gmbt_prlx_bg_type="parallax" gmbt_prlx_break_parents="0" gmbt_prlx_video_youtube_loop_trigger="0" gmbt_prlx_video_aspect_ratio="16:9" gmbt_prlx_parallax="none" gmbt_prlx_speed="0.3" container_class="container" css=".vc_custom_1420772649186{padding-top: 15px !important;}"][vc_column width="1/1"][vc_separator color="custom" accent_color="#ededed"][/vc_column][/vc_row][vc_row][vc_column width="1/1" css=".vc_custom_1420877348039{padding-top: 60px !important;}"][vc_column_text css=".vc_custom_1420877340375{margin-bottom: 60px !important;}"]
+<h4 style="text-align: center;">Default and Custom List Styles</h4>
+[/vc_column_text][vc_row_inner css=".vc_custom_1420879065200{margin-bottom: 55px !important;}"][vc_column_inner width="1/3"][ts_list_style choose_list_style="default" color_icon="#737373" list_title="Default ordered list"]1|Nam aliquet massa id gravida venenatis.|#
+
+2|Integer quis mauris dapibus, ornare lorem vel|#
+
+3|Donec non nisl sed ex fermentum pretium non ac|#
+
+4|Fusce at risus tempus dolor venenatis euismod|#[/ts_list_style][/vc_column_inner][vc_column_inner width="1/3"][ts_list_style choose_list_style="icon" color_icon="#737373" list_title="Custom list with icons"]fa-rocket|Nam aliquet massa id gravida venenatis.|#
+
+fa-pencil|Integer quis mauris dapibus, ornare lorem vel|#
+
+fa-paper-plane|Donec non nisl sed ex fermentum pretium non ac|#
+
+fa-futbol-o|Fusce at risus tempus dolor venenatis euismod|#[/ts_list_style][/vc_column_inner][vc_column_inner width="1/3"][ts_list_style choose_list_style="icon" color_icon="#737373" list_title="Custom list with square icons"]fa-plus-square|Nam aliquet massa id gravida venenatis.|#
+
+fa-plus-square|Integer quis mauris dapibus, ornare lorem vel|#
+
+fa-plus-square|Donec non nisl sed ex fermentum pretium non ac|#
+
+fa-plus-square|Fusce at risus tempus dolor venenatis euismod|#[/ts_list_style][/vc_column_inner][/vc_row_inner][vc_row_inner][vc_column_inner width="1/3"][ts_list_style choose_list_style="orderlist" color_icon="#737373" list_title="Default ordered list"]Nam aliquet massa id gravida venenatis.|#
+
+Integer quis mauris dapibus, ornare lorem vel|#
+
+Donec non nisl sed ex fermentum pretium non ac|#
+
+Fusce at risus tempus dolor venenatis euismod|#[/ts_list_style][/vc_column_inner][vc_column_inner width="1/3"][ts_list_style choose_list_style="icon" color_icon="#54b4f2" list_title="Custom list with colored icons"]fa-rocket|Nam aliquet massa id gravida venenatis.|#
+
+fa-pencil|Integer quis mauris dapibus, ornare lorem vel|#
+
+fa-paper-plane|Donec non nisl sed ex fermentum pretium non ac|#
+
+fa-futbol-o|Fusce at risus tempus dolor venenatis euismod|#[/ts_list_style][/vc_column_inner][vc_column_inner width="1/3"][ts_list_style choose_list_style="icon" color_icon="#54b4f2" list_title="Custom list with colored square icons"]fa-plus-square|Nam aliquet massa id gravida venenatis.|#
+
+fa-plus-square|Integer quis mauris dapibus, ornare lorem vel|#
+
+fa-plus-square|Donec non nisl sed ex fermentum pretium non ac|#
+
+fa-plus-square|Fusce at risus tempus dolor venenatis euismod|#[/ts_list_style][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row gmbt_prlx_bg_type="parallax" gmbt_prlx_break_parents="0" gmbt_prlx_video_youtube_loop_trigger="0" gmbt_prlx_video_aspect_ratio="16:9" gmbt_prlx_parallax="none" gmbt_prlx_speed="0.3" container_class="container" css=".vc_custom_1420778174481{padding-top: 55px !important;}"][vc_column width="1/1"][vc_separator color="custom" accent_color="#ededed"][/vc_column][/vc_row][vc_row css=".vc_custom_1420880612322{margin-bottom: 80px !important;padding-top: 55px !important;}" gmbt_prlx_bg_type="parallax" gmbt_prlx_break_parents="0" gmbt_prlx_video_youtube_loop_trigger="0" gmbt_prlx_video_aspect_ratio="16:9" gmbt_prlx_parallax="none" gmbt_prlx_speed="0.3"][vc_column width="1/2"][ts_list_style choose_list_style="unstyle" color_icon="#737373" list_title="Unstyled list (with links for example)"]Nam aliquet massa id gravida venenatis.|#
+
+Integer quis mauris dapibus, ornare lorem vel, tincidunt leo.|#
+
+Donec non nisl sed ex fermentum pretium non ac massa.|#
+
+Fusce at risus tempus dolor venenatis euismod dictum sed dolor.|#
+
+Nam aliquet massa id gravida venenatis.|#[/ts_list_style][/vc_column][vc_column width="1/2" css=".vc_custom_1420778269831{margin-bottom: 0px !important;padding-top: 0px !important;}"][vc_column_text css=".vc_custom_1420879862911{margin-bottom: 30px !important;}"]
+<h6>Table data</h6>
+[/vc_column_text][ts_table_data title_box="Table data" content_title="Invoice #|Invoice Date|Due Date|Total" number_column="4"]8|11/08/2014|11/08/2014|$10.99 USD
+
+8|11/08/2014|11/08/2014|$10.99 USD
+
+8|11/08/2014|11/08/2014|$10.99 USD
+
+8|11/08/2014|11/08/2014|$10.99 USD[/ts_table_data][/vc_column][/vc_row]

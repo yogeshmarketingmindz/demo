@@ -1,0 +1,1 @@
+[vc_row][vc_column][ts_portfolio portfolio_show_categories="advertising,branding,print,product" portfolio_portfolio_container="yes"][/vc_column][/vc_row]
